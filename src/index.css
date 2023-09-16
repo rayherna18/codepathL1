@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh; 
+  background-color: rgb(58, 40, 71);
+}
+
+th {
+  width: 120px;
+  padding-top:25px;
+  padding-bottom:30px;
+}
+
+td {
+  padding: 5px;
+}
+
+.calendar
+{
+  background-color: black;
+}
+
+.time {
+  height: 40px;
+}
+
+.green
+{
+  background-color: rgba(144, 238, 144, 0.472);
+}
+.blue
+{
+  background-color: rgba(0, 255, 255, 0.55);
+}
+.red
+{
+  background-color: rgba(255, 0, 0, 0.548);
+}
+.yellow
+{
+  background-color: rgba(255, 230, 0, 0.548);
+}
+.orange
+{
+  background-color: rgba(255, 166, 0, 0.597);
+}
